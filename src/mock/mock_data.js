@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://gemini.google.com/app",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.notion.so.ico"
         }
       ]
     },
@@ -86,20 +93,6 @@ export const mockData = {
           "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
@@ -134,21 +127,6 @@ export const mockData = {
           "url": "https://web.telegram.org/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/web.telegram.org"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 5,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
         }
       ]
     },
