@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1776755576839",
+          "name": "Gemimi",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         }
       ]
     },
@@ -41,6 +48,20 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+        },
+        {
+          "id": "site-1776755917172",
+          "name": "美国地址生成器",
+          "url": "https://usaddressgen.com/",
+          "description": "可导出",
+          "icon": "https://www.faviconextractor.com/favicon/usaddressgen.com"
+        },
+        {
+          "id": "site-1776756074142",
+          "name": "链接是什么？",
+          "url": "https://whatslink.info/",
+          "description": "磁力快照",
+          "icon": "https://www.faviconextractor.com/favicon/whatslink.info"
         }
       ]
     },
@@ -106,6 +127,13 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1776755638269",
+          "name": "Telegram",
+          "url": "https://web.telegram.org/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/web.telegram.org"
         }
       ]
     },
@@ -129,7 +157,22 @@ export const mockData = {
       "icon": "☁️",
       "name": "未分类",
       "order": 8,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1776755728510",
+          "name": "阮一峰的网络日志",
+          "url": "https://www.ruanyifeng.com/blog/",
+          "description": "每周五更新",
+          "icon": "https://www.faviconextractor.com/favicon/www.ruanyifeng.com"
+        },
+        {
+          "id": "site-1776756004882",
+          "name": "v2ray客户端下载",
+          "url": "https://itlanyan.com/v2ray-clients-download/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/itlanyan.com"
+        }
+      ]
     }
   ],
   "title": "主页导航",
