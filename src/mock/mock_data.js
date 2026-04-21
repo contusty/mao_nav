@@ -16,13 +16,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": []
-    },
-    {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
