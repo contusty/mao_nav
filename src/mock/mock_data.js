@@ -1,28 +1,6 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
-      "sites": [
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        }
-      ]
-    },
-    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
@@ -38,26 +16,11 @@ export const mockData = {
       ]
     },
     {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": []
-    },
-    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
       "order": 3,
-      "sites": [
-        {
-          "id": "site-1774438333579",
-          "name": "freemail",
-          "url": "https://mail.chatgpt.org.uk/",
-          "description": "免费邮箱站点",
-          "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-1774510899116",
@@ -78,6 +41,13 @@ export const mockData = {
           "url": "https://ip-geoaddress-generator.pages.dev/",
           "description": "获取当前ip地址",
           "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
+        },
+        {
+          "id": "site-1774438333579",
+          "name": "freemail",
+          "url": "https://mail.chatgpt.org.uk/",
+          "description": "免费邮箱站点",
+          "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
         }
       ]
     },
@@ -130,34 +100,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/fuliba2025.net"
         }
       ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 6,
-      "sites": []
-    },
-    {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
-      "order": 7,
-      "sites": []
-    },
-    {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 8,
-      "sites": []
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 9,
-      "sites": []
     },
     {
       "id": "entertainment",
