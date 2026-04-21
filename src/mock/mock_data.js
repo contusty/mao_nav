@@ -4,7 +4,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -48,7 +48,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 2,
       "sites": [
         {
           "id": "linuxdo",
@@ -98,7 +98,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 4,
       "sites": [
         {
           "id": "youtube",
@@ -113,7 +113,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 5,
       "sites": [
         {
           "id": "notion",
@@ -123,6 +123,13 @@ export const mockData = {
           "icon": "/sitelogo/www.notion.so.ico"
         }
       ]
+    },
+    {
+      "id": "category-1776755404474",
+      "icon": "☁️",
+      "name": "未分类",
+      "order": 8,
+      "sites": []
     }
   ],
   "title": "主页导航",
