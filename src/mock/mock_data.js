@@ -26,27 +26,6 @@ export const mockData = {
           "url": "https://www.notion.so",
           "description": "全能工作空间",
           "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "site-1776907569633",
-          "name": "博客",
-          "url": "https://ahurry.eu.org",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/ahurry.eu.org"
-        },
-        {
-          "id": "site-1776907611252",
-          "name": "播放器",
-          "url": "https://aikan.eu.cc",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/aikan.eu.cc"
-        },
-        {
-          "id": "site-1776907667436",
-          "name": "加速",
-          "url": "https://spolink.eu.cc/admin",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/spolink.eu.cc"
         }
       ]
     },
@@ -178,7 +157,29 @@ export const mockData = {
       "icon": "🎨",
       "name": "自建",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1776907667436",
+          "name": "加速",
+          "url": "https://spolink.eu.cc/admin",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/spolink.eu.cc"
+        },
+        {
+          "id": "site-1776907611252",
+          "name": "播放器",
+          "url": "https://aikan.eu.cc",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aikan.eu.cc"
+        },
+        {
+          "id": "site-1776907569633",
+          "name": "博客",
+          "url": "https://ahurry.eu.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ahurry.eu.org"
+        }
+      ]
     }
   ],
   "title": "主页导航",
